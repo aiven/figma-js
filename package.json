@@ -1,5 +1,5 @@
 {
-  "name": "figma-js",
+  "name": "@aivenio/figma-js",
   "version": "1.10.1",
   "description": "A simple wrapper for the Figma API",
   "main": "build/main/index.js",
